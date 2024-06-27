@@ -1,0 +1,16 @@
+.square {
+    background-color: lightblue;
+    border: 1px solid darkblue;
+    font-size: 24px;
+    cursor: pointer;
+    width: 100px;
+    height: 100px;
+
+}
+.App {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+
+}
